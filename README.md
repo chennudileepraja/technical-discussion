@@ -9,4 +9,4 @@ This is demo repo
 
 ### Gist
 
-This is demo git [My Code](https://gist.github.com/chennudileepraja/411c562c1fac9840a0526fe74e373816.js)
+This is demo git [My Code](https://gist.github.com/411c562c1fac9840a0526fe74e373816.git)
