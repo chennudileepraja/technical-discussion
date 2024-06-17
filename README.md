@@ -6,4 +6,3 @@ This is demo repo
 * one
 * Two
 * Three
-* 
